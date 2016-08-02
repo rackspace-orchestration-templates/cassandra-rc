@@ -1,7 +1,7 @@
 heat_template_version: 2013-05-23
 
 description: |
-  ####Multiple Linux servers - RCv3
+  #### Multiple Linux servers - RCv3
   Multiple Linux servers running
   [Apache Cassandra 2.0](http://cassandra.apache.org/).
   This configuration will build a single seed server with two or
